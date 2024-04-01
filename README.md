@@ -29,7 +29,7 @@ A fascinating data science project aimed at classifying galaxies into fake and r
 ### QisstPay
 Experience seamless fintech services with QisstPay, a Flutter-based mobile application.
 
-[![QisstPay](https://raw.githubusercontent.com/yourusername/QisstPay/main/assets/screenshots/preview.png)](https://github.com/yourusername/QisstPay)
+[![QisstPay](https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/25/91/48/2591481a-7135-e8f6-0798-545be722c002/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png)](https://github.com/yourusername/QisstPay)
 
 ---
 
