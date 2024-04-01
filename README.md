@@ -11,6 +11,19 @@
 ![](https://github-readme-stats.vercel.app/api?username=umairaziz719&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=umairaziz719&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umairaziz719&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# My GitHub Projects
+
+## Project 1: UniVision
+- Description: This project is developed in Flutter For Education.
+- GitHub Repository: [Univision](https://github.com/umairaziz719/Univision)
+
+## Project 2: Data Science Project
+- Description: A data science project is to detect fake and real galaxy.
+- GitHub Repository: [Galaxy Zoo](https://github.com/umairaziz719/Machine_learning_Assignment/blob/main/Machine_learning_group_assignment.ipynb)
+
+## Project 3: QisstPay
+- Description: I developed this app using flutter its fintech app.
+- GitHub Repository: [Qisstpay](https://github.com/umairaziz719/Qisstpay)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
