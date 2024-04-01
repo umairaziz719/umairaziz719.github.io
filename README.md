@@ -11,19 +11,30 @@
 ![](https://github-readme-stats.vercel.app/api?username=umairaziz719&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=umairaziz719&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umairaziz719&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-# My GitHub Projects
 
-## Project 1: UniVision
-- Description: This project is developed in Flutter For Education.
-- GitHub Repository: [Univision](https://github.com/umairaziz719/Univision)
+# Welcome to My GitHub Profile! 👋
 
-## Project 2: Data Science Project
-- Description: A data science project is to detect fake and real galaxy.
-- GitHub Repository: [Galaxy Zoo](https://github.com/umairaziz719/Machine_learning_Assignment/blob/main/Machine_learning_group_assignment.ipynb)
+## Featured Projects
 
-## Project 3: QisstPay
-- Description: I developed this app using flutter its fintech app.
-- GitHub Repository: [Qisstpay](https://github.com/umairaziz719/Qisstpay)
+### UniVision
+An educational app developed with Flutter, providing a dynamic learning experience.
+
+[![UniVision](https://raw.githubusercontent.com/yourusername/Univision/main/screenshots/preview.png)](https://github.com/yourusername/Univision)
+
+### Galaxy Zoo
+A fascinating data science project aimed at classifying galaxies into fake and real categories.
+
+[![Galaxy Zoo](https://raw.githubusercontent.com/yourusername/Galaxy-Zoo/main/images/preview.jpg)](https://github.com/yourusername/Galaxy-Zoo)
+
+### QisstPay
+Experience seamless fintech services with QisstPay, a Flutter-based mobile application.
+
+[![QisstPay](https://raw.githubusercontent.com/yourusername/QisstPay/main/assets/screenshots/preview.png)](https://github.com/yourusername/QisstPay)
+
+---
+
+Feel free to explore these projects further by clicking on the images or repository links above. If you find them interesting, don't forget to star ⭐️ the repositories!
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
