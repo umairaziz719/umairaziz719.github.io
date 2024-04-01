@@ -19,17 +19,17 @@
 ### UniVision
 An educational app developed with Flutter, providing a dynamic learning experience.
 
-[![UniVision]](https://github.com/yourusername/Univision)
+[![UniVision]](https://github.com/umairaziz719/Univision)
 
 ### Galaxy Zoo
 A fascinating data science project aimed at classifying galaxies into fake and real categories.
 
-[![Galaxy Zoo]](https://github.com/yourusername/Galaxy-Zoo)
+[![Galaxy Zoo]](https://github.com/umairaziz719/Galaxy-Zoo)
 
 ### QisstPay
 Experience seamless fintech services with QisstPay, a Flutter-based mobile application.
 
-[![QisstPay]](https://github.com/yourusername/QisstPay)
+[![QisstPay]](https://github.com/umairaziz719/QisstPay)
 
 ---
 
