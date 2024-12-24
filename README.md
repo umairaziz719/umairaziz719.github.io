@@ -24,7 +24,7 @@ An educational app developed with Flutter, providing a dynamic learning experien
 ### Galaxy Zoo
 A fascinating data science project aimed at classifying galaxies into fake and real categories.
 
-[![Galaxy Zoo]](https://github.com/umairaziz719/Galaxy-Zoo)
+[![Galaxy Zoo]](https://github.com/umairaziz719/Galaxy-Zoo-2-Real-and-Fake-)
 
 ### QisstPay
 Experience seamless fintech services with QisstPay, a Flutter-based mobile application.
